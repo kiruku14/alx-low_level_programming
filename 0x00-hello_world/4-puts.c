@@ -1,8 +1,3 @@
-/**
- * File: 4-puts.c
- *Auth: Brian Kiruku
- */
-
 #include <stdio.h>
 
 /**
