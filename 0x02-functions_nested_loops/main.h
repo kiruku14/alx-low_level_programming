@@ -1,4 +1,3 @@
-// includes all my prototypes
-// especially my functions
+void print_alphabet(void);
 
-int putchar(int);
+int _putchar(char c);
