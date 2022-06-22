@@ -17,3 +17,9 @@ int _sqrt(int g, int c);
 int is_prime_number(int n);
 
 int _prime(int b, int p);
+
+int _check(char *s, int start, int end, int pair);
+
+int _last_index(char *s);
+
+int is_palindrome(char *s);
