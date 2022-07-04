@@ -3,7 +3,7 @@
 /**
  * main - checks code in file
  *
- * Return - null
+ * Return: null
  */
 
 int main(void)
